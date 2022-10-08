@@ -1,0 +1,1 @@
+print(object, sep='Character', end='Character')
